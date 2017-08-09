@@ -1,0 +1,136 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP +12V
+K POWER, PWR
+$ENDCMP
+#
+$CMP +3.3VA
+K POWER, PWR
+$ENDCMP
+#
+$CMP +3V3
+K POWER, PWR
+$ENDCMP
+#
+$CMP -12V
+K POWER, PWR
+$ENDCMP
+#
+$CMP C
+D Unpolarized capacitor
+K cap capacitor
+$ENDCMP
+#
+$CMP CP1
+D Polarised capacitor
+K cap capacitor
+$ENDCMP
+#
+$CMP Crystal
+D Two pin crystal
+K quartz ceramic resonator oscillator
+$ENDCMP
+#
+$CMP D_ALT
+D Diode, alternativ symbol
+K diode
+$ENDCMP
+#
+$CMP D_TVS_ALT
+D Bidirectional transient-voltage-suppression (TVS) diode, alternative symbol
+K diode TVS thyrector
+F https://en.wikipedia.org/wiki/Transient-voltage-suppression_diode
+$ENDCMP
+#
+$CMP Ferrite_Bead
+D Ferrite bead
+K L ferite bead inductor filter
+$ENDCMP
+#
+$CMP GNDA
+K POWER, PWR
+$ENDCMP
+#
+$CMP GNDD
+K POWER, PWR
+$ENDCMP
+#
+$CMP GND_DAC
+K POWER, PWR
+$ENDCMP
+#
+$CMP INA106
+D Precision Gain = 10 differential amplifier
+K linear ti diff amp
+F http://www.ti.com/lit/ds/symlink/ina106.pdf
+$ENDCMP
+#
+$CMP INA106_R
+D Precision Gain = 0.1 differential amplifier
+K linear ti diff amp
+F http://www.ti.com/lit/ds/symlink/ina106.pdf
+$ENDCMP
+#
+$CMP LM3886T
+D Single 68W Overture Seriers Audio Power Amplifier, with Mute Mode, TO220-11 (MultiWatt)
+K LM3886 Overture Amplifier Single 86W
+F http://www.ti.com/lit/ds/symlink/lm3886.pdf
+$ENDCMP
+#
+$CMP LM3886TF
+D Single 68W Overture Seriers Audio Power Amplifier, with Mute Mode, PFM-11 (Plastic MultiWatt)
+K LM3886 Overture Amplifier Single 86W
+F http://www.ti.com/lit/ds/symlink/lm3886.pdf
+$ENDCMP
+#
+$CMP LP2986AIM-3.3/NOPB
+D LP2988IMX-5.0, 200mA Linear LDO Regulator, Low Noise, Fixed Output 5V, SO-8
+K Linear LDO Regulator 200mA 5V
+F http://www.ti.com/lit/ds/symlink/lp2987.pdf
+$ENDCMP
+#
+$CMP LT1010
+D Fast 150mA power buffer
+K ampliop
+F https://cds.linear.com/docs/en/datasheet/1010fe.pdf
+$ENDCMP
+#
+$CMP OPA192
+D Single Precision RRIO Operational Amplifier
+K ampliop
+F http://www.ti.com/lit/ds/symlink/opa192.pdf
+$ENDCMP
+#
+$CMP OPA2192
+D Dual Precision RRIO Operational Amplifier
+K ampliop
+F http://www.ti.com/lit/ds/symlink/opa192.pdf
+$ENDCMP
+#
+$CMP R
+D Resistor
+K r res resistor
+$ENDCMP
+#
+$CMP STM32F405RGTx
+D Core: ARM Cortex-M4 Package: LQFP64 Flash: 1024KB Ram: 128KB Frequency: 168MHz Voltage: 1.8..3.6V IO-pins: 51
+K ARM Cortex-M4 STM32F4 STM32F405/415
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00037051.pdf
+$ENDCMP
+#
+$CMP Screw_Terminal_1x02
+D 2-pin screw terminal connector
+K screw terminal block
+$ENDCMP
+#
+$CMP USB_OTG
+D USB mini/micro connector
+K connector USB
+$ENDCMP
+#
+$CMP YSSR05
+D Low Capacitance TVS Diode Array
+K diode schotty TVS
+$ENDCMP
+#
+#End Doc Library
