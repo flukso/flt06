@@ -107,6 +107,11 @@ K ampliop
 F http://www.ti.com/lit/ds/symlink/opa192.pdf
 $ENDCMP
 #
+$CMP POT
+D Potentiometer
+K resistor variable
+$ENDCMP
+#
 $CMP R
 D Resistor
 K r res resistor
@@ -121,6 +126,11 @@ $ENDCMP
 $CMP Screw_Terminal_1x02
 D 2-pin screw terminal connector
 K screw terminal block
+$ENDCMP
+#
+$CMP TEST_1P
+D point
+K point tp
 $ENDCMP
 #
 $CMP USB_OTG

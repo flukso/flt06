@@ -1,0 +1,1153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>/pool/dev/flt06/flt06.sch</source>
+    <date>Tue 05 Sep 2017 09:50:32 CEST</date>
+    <tool>Eeschema 4.0.7-e2-6376~58~ubuntu16.04.1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>FLT06A</title>
+        <company/>
+        <rev>1</rev>
+        <date>2017-05-29</date>
+        <source>flt06.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="2" name="/analog/" tstamps="/5933E4B0/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>analog.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="J1">
+      <value>Screw_Terminal_1x03</value>
+      <footprint>Connectors_Terminal_Blocks:TerminalBlock_Pheonix_PT-3.5mm_3pol</footprint>
+      <libsource lib="flt06-cache" part="Screw_Terminal_1x03"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5933CB66</tstamp>
+    </comp>
+    <comp ref="J3">
+      <value>Screw_Terminal_1x02</value>
+      <footprint>Connectors_Terminal_Blocks:TerminalBlock_Pheonix_PT-3.5mm_2pol</footprint>
+      <libsource lib="flt06" part="Screw_Terminal_1x02"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5933CD4C</tstamp>
+    </comp>
+    <comp ref="J5">
+      <value>Screw_Terminal_1x02</value>
+      <footprint>Connectors_Terminal_Blocks:TerminalBlock_Pheonix_PT-3.5mm_2pol</footprint>
+      <libsource lib="flt06" part="Screw_Terminal_1x02"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5933CE2F</tstamp>
+    </comp>
+    <comp ref="J4">
+      <value>Screw_Terminal_1x02</value>
+      <footprint>Connectors_Terminal_Blocks:TerminalBlock_Pheonix_PT-3.5mm_2pol</footprint>
+      <libsource lib="flt06" part="Screw_Terminal_1x02"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5933CED5</tstamp>
+    </comp>
+    <comp ref="L1">
+      <value>R6H-2.5T</value>
+      <footprint>Resistors_THT:R_Axial_DIN0617_L17.0mm_D6.0mm_P5.08mm_Vertical</footprint>
+      <libsource lib="flt06" part="Ferrite_Bead"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5933D043</tstamp>
+    </comp>
+    <comp ref="L2">
+      <value>R6H-2.5T</value>
+      <footprint>Resistors_THT:R_Axial_DIN0617_L17.0mm_D6.0mm_P5.08mm_Vertical</footprint>
+      <libsource lib="flt06" part="Ferrite_Bead"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5933D0F0</tstamp>
+    </comp>
+    <comp ref="L3">
+      <value>R6H-2.5T</value>
+      <footprint>Resistors_THT:R_Axial_DIN0617_L17.0mm_D6.0mm_P5.08mm_Vertical</footprint>
+      <libsource lib="flt06" part="Ferrite_Bead"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5933D17D</tstamp>
+    </comp>
+    <comp ref="D2">
+      <value>STPS160A</value>
+      <footprint>Diodes_SMD:D_SMA</footprint>
+      <libsource lib="flt06" part="D_ALT"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5933D259</tstamp>
+    </comp>
+    <comp ref="D1">
+      <value>STPS160A</value>
+      <footprint>Diodes_SMD:D_SMA</footprint>
+      <libsource lib="flt06" part="D_ALT"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5933D2FE</tstamp>
+    </comp>
+    <comp ref="D3">
+      <value>SMAJ30CA</value>
+      <footprint>Diodes_SMD:D_SMA</footprint>
+      <libsource lib="flt06" part="D_TVS_ALT"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5933D355</tstamp>
+    </comp>
+    <comp ref="J6">
+      <value>Screw_Terminal_1x02</value>
+      <footprint>Connectors_Terminal_Blocks:TerminalBlock_Pheonix_PT-3.5mm_2pol</footprint>
+      <libsource lib="flt06" part="Screw_Terminal_1x02"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5933E2D9</tstamp>
+    </comp>
+    <comp ref="D4">
+      <value>STPS160A</value>
+      <footprint>Diodes_SMD:D_SMA</footprint>
+      <libsource lib="flt06" part="D_ALT"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59357AE6</tstamp>
+    </comp>
+    <comp ref="D5">
+      <value>STPS160A</value>
+      <footprint>Diodes_SMD:D_SMA</footprint>
+      <libsource lib="flt06" part="D_ALT"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59357BD3</tstamp>
+    </comp>
+    <comp ref="D6">
+      <value>STPS160A</value>
+      <footprint>Diodes_SMD:D_SMA</footprint>
+      <libsource lib="flt06" part="D_ALT"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59357C37</tstamp>
+    </comp>
+    <comp ref="D7">
+      <value>STPS160A</value>
+      <footprint>Diodes_SMD:D_SMA</footprint>
+      <libsource lib="flt06" part="D_ALT"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59357CD2</tstamp>
+    </comp>
+    <comp ref="C1">
+      <value>10u</value>
+      <footprint>Capacitors_SMD:C_1210</footprint>
+      <libsource lib="flt06" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5935F70D</tstamp>
+    </comp>
+    <comp ref="C2">
+      <value>10u</value>
+      <footprint>Capacitors_SMD:C_1210</footprint>
+      <libsource lib="flt06" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5935F7BC</tstamp>
+    </comp>
+    <comp ref="J2">
+      <value>Screw_Terminal_1x02</value>
+      <footprint>Connectors_Terminal_Blocks:TerminalBlock_Pheonix_PT-3.5mm_2pol</footprint>
+      <libsource lib="flt06" part="Screw_Terminal_1x02"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>598C00C1</tstamp>
+    </comp>
+    <comp ref="C4">
+      <value>22u</value>
+      <footprint>Capacitors_SMD:C_1210</footprint>
+      <libsource lib="flt06" part="C"/>
+      <sheetpath names="/analog/" tstamps="/5933E4B0/"/>
+      <tstamp>59341BC8</tstamp>
+    </comp>
+    <comp ref="R4">
+      <value>1M</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
+      <libsource lib="flt06" part="R"/>
+      <sheetpath names="/analog/" tstamps="/5933E4B0/"/>
+      <tstamp>59341CA3</tstamp>
+    </comp>
+    <comp ref="U1">
+      <value>OPA2192</value>
+      <footprint>Housings_SSOP:TSSOP-8_3x3mm_Pitch0.65mm</footprint>
+      <libsource lib="flt06" part="OPA2192"/>
+      <sheetpath names="/analog/" tstamps="/5933E4B0/"/>
+      <tstamp>59341D32</tstamp>
+    </comp>
+    <comp ref="C15">
+      <value>100pF</value>
+      <footprint>Capacitors_SMD:C_0603</footprint>
+      <libsource lib="flt06" part="C"/>
+      <sheetpath names="/analog/" tstamps="/5933E4B0/"/>
+      <tstamp>59341EAD</tstamp>
+    </comp>
+    <comp ref="C3">
+      <value>100pF</value>
+      <footprint>Capacitors_SMD:C_0603</footprint>
+      <libsource lib="flt06" part="C"/>
+      <sheetpath names="/analog/" tstamps="/5933E4B0/"/>
+      <tstamp>59341F96</tstamp>
+    </comp>
+    <comp ref="R3">
+      <value>15k8</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
+      <libsource lib="flt06" part="R"/>
+      <sheetpath names="/analog/" tstamps="/5933E4B0/"/>
+      <tstamp>59342026</tstamp>
+    </comp>
+    <comp ref="R2">
+      <value>15k8</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
+      <libsource lib="flt06" part="R"/>
+      <sheetpath names="/analog/" tstamps="/5933E4B0/"/>
+      <tstamp>59342185</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>0</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
+      <libsource lib="flt06" part="R"/>
+      <sheetpath names="/analog/" tstamps="/5933E4B0/"/>
+      <tstamp>593426A3</tstamp>
+    </comp>
+    <comp ref="R6">
+      <value>5k9</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
+      <libsource lib="flt06" part="R"/>
+      <sheetpath names="/analog/" tstamps="/5933E4B0/"/>
+      <tstamp>59342AE0</tstamp>
+    </comp>
+    <comp ref="R8">
+      <value>10k</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
+      <libsource lib="flt06" part="R"/>
+      <sheetpath names="/analog/" tstamps="/5933E4B0/"/>
+      <tstamp>59342CDB</tstamp>
+    </comp>
+    <comp ref="R5">
+      <value>1</value>
+      <footprint>Resistors_SMD:R_1206</footprint>
+      <libsource lib="flt06" part="R"/>
+      <sheetpath names="/analog/" tstamps="/5933E4B0/"/>
+      <tstamp>593435F4</tstamp>
+    </comp>
+    <comp ref="U3">
+      <value>LT1010</value>
+      <footprint>TO_SOT_Packages_THT:TO-220-5_Pentawatt_Multiwatt-5_Vertical_StaggeredType1</footprint>
+      <libsource lib="flt06" part="LT1010"/>
+      <sheetpath names="/analog/" tstamps="/5933E4B0/"/>
+      <tstamp>59351EC9</tstamp>
+    </comp>
+    <comp ref="U4">
+      <value>OPA192</value>
+      <footprint>TO_SOT_Packages_SMD:SOT-23-5</footprint>
+      <libsource lib="flt06" part="OPA192"/>
+      <sheetpath names="/analog/" tstamps="/5933E4B0/"/>
+      <tstamp>593520A7</tstamp>
+    </comp>
+    <comp ref="U2">
+      <value>INA106_R</value>
+      <footprint>Housings_SOIC:SOIC-8_3.9x4.9mm_Pitch1.27mm</footprint>
+      <libsource lib="flt06" part="INA106_R"/>
+      <sheetpath names="/analog/" tstamps="/5933E4B0/"/>
+      <tstamp>59352A42</tstamp>
+    </comp>
+    <comp ref="C17">
+      <value>22u</value>
+      <footprint>Capacitors_SMD:C_1210</footprint>
+      <libsource lib="flt06" part="C"/>
+      <sheetpath names="/analog/" tstamps="/5933E4B0/"/>
+      <tstamp>59355FC8</tstamp>
+    </comp>
+    <comp ref="R12">
+      <value>1M</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
+      <libsource lib="flt06" part="R"/>
+      <sheetpath names="/analog/" tstamps="/5933E4B0/"/>
+      <tstamp>59355FCE</tstamp>
+    </comp>
+    <comp ref="U5">
+      <value>OPA2192</value>
+      <footprint>Housings_SSOP:TSSOP-8_3x3mm_Pitch0.65mm</footprint>
+      <libsource lib="flt06" part="OPA2192"/>
+      <sheetpath names="/analog/" tstamps="/5933E4B0/"/>
+      <tstamp>59355FDA</tstamp>
+    </comp>
+    <comp ref="C18">
+      <value>100pF</value>
+      <footprint>Capacitors_SMD:C_0603</footprint>
+      <libsource lib="flt06" part="C"/>
+      <sheetpath names="/analog/" tstamps="/5933E4B0/"/>
+      <tstamp>59355FE6</tstamp>
+    </comp>
+    <comp ref="C16">
+      <value>100pF</value>
+      <footprint>Capacitors_SMD:C_0603</footprint>
+      <libsource lib="flt06" part="C"/>
+      <sheetpath names="/analog/" tstamps="/5933E4B0/"/>
+      <tstamp>59355FEC</tstamp>
+    </comp>
+    <comp ref="R11">
+      <value>15k8</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
+      <libsource lib="flt06" part="R"/>
+      <sheetpath names="/analog/" tstamps="/5933E4B0/"/>
+      <tstamp>59355FF2</tstamp>
+    </comp>
+    <comp ref="R10">
+      <value>15k8</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
+      <libsource lib="flt06" part="R"/>
+      <sheetpath names="/analog/" tstamps="/5933E4B0/"/>
+      <tstamp>59355FF8</tstamp>
+    </comp>
+    <comp ref="R9">
+      <value>0</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
+      <libsource lib="flt06" part="R"/>
+      <sheetpath names="/analog/" tstamps="/5933E4B0/"/>
+      <tstamp>59356016</tstamp>
+    </comp>
+    <comp ref="R13">
+      <value>5k9</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
+      <libsource lib="flt06" part="R"/>
+      <sheetpath names="/analog/" tstamps="/5933E4B0/"/>
+      <tstamp>59356022</tstamp>
+    </comp>
+    <comp ref="R15">
+      <value>10k</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
+      <libsource lib="flt06" part="R"/>
+      <sheetpath names="/analog/" tstamps="/5933E4B0/"/>
+      <tstamp>59356028</tstamp>
+    </comp>
+    <comp ref="U7">
+      <value>LT1010</value>
+      <footprint>TO_SOT_Packages_THT:TO-220-5_Pentawatt_Multiwatt-5_Horizontal_StaggeredType1</footprint>
+      <libsource lib="flt06" part="LT1010"/>
+      <sheetpath names="/analog/" tstamps="/5933E4B0/"/>
+      <tstamp>5935608C</tstamp>
+    </comp>
+    <comp ref="U6">
+      <value>INA106</value>
+      <footprint>Housings_SOIC:SOIC-8_3.9x4.9mm_Pitch1.27mm</footprint>
+      <libsource lib="flt06" part="INA106"/>
+      <sheetpath names="/analog/" tstamps="/5933E4B0/"/>
+      <tstamp>59356315</tstamp>
+    </comp>
+    <comp ref="U8">
+      <value>LT1010</value>
+      <footprint>TO_SOT_Packages_THT:TO-220-5_Pentawatt_Multiwatt-5_Horizontal_StaggeredType1</footprint>
+      <libsource lib="flt06" part="LT1010"/>
+      <sheetpath names="/analog/" tstamps="/5933E4B0/"/>
+      <tstamp>593566A3</tstamp>
+    </comp>
+    <comp ref="U9">
+      <value>LT1010</value>
+      <footprint>TO_SOT_Packages_THT:TO-220-5_Pentawatt_Multiwatt-5_Horizontal_StaggeredType1</footprint>
+      <libsource lib="flt06" part="LT1010"/>
+      <sheetpath names="/analog/" tstamps="/5933E4B0/"/>
+      <tstamp>59356B7D</tstamp>
+    </comp>
+    <comp ref="U10">
+      <value>LT1010</value>
+      <footprint>TO_SOT_Packages_THT:TO-220-5_Pentawatt_Multiwatt-5_Horizontal_StaggeredType1</footprint>
+      <libsource lib="flt06" part="LT1010"/>
+      <sheetpath names="/analog/" tstamps="/5933E4B0/"/>
+      <tstamp>59356B84</tstamp>
+    </comp>
+    <comp ref="C5">
+      <value>100nF</value>
+      <footprint>Capacitors_SMD:C_0603</footprint>
+      <libsource lib="flt06" part="C"/>
+      <sheetpath names="/analog/" tstamps="/5933E4B0/"/>
+      <tstamp>593610CB</tstamp>
+    </comp>
+    <comp ref="C6">
+      <value>100nF</value>
+      <footprint>Capacitors_SMD:C_0603</footprint>
+      <libsource lib="flt06" part="C"/>
+      <sheetpath names="/analog/" tstamps="/5933E4B0/"/>
+      <tstamp>59361396</tstamp>
+    </comp>
+    <comp ref="C7">
+      <value>100nF</value>
+      <footprint>Capacitors_SMD:C_0603</footprint>
+      <libsource lib="flt06" part="C"/>
+      <sheetpath names="/analog/" tstamps="/5933E4B0/"/>
+      <tstamp>59361629</tstamp>
+    </comp>
+    <comp ref="C8">
+      <value>100nF</value>
+      <footprint>Capacitors_SMD:C_0603</footprint>
+      <libsource lib="flt06" part="C"/>
+      <sheetpath names="/analog/" tstamps="/5933E4B0/"/>
+      <tstamp>593616AF</tstamp>
+    </comp>
+    <comp ref="C9">
+      <value>100nF</value>
+      <footprint>Capacitors_SMD:C_0603</footprint>
+      <libsource lib="flt06" part="C"/>
+      <sheetpath names="/analog/" tstamps="/5933E4B0/"/>
+      <tstamp>5936173E</tstamp>
+    </comp>
+    <comp ref="C10">
+      <value>100nF</value>
+      <footprint>Capacitors_SMD:C_0603</footprint>
+      <libsource lib="flt06" part="C"/>
+      <sheetpath names="/analog/" tstamps="/5933E4B0/"/>
+      <tstamp>59361FCC</tstamp>
+    </comp>
+    <comp ref="C11">
+      <value>100nF</value>
+      <footprint>Capacitors_SMD:C_0603</footprint>
+      <libsource lib="flt06" part="C"/>
+      <sheetpath names="/analog/" tstamps="/5933E4B0/"/>
+      <tstamp>59361FD2</tstamp>
+    </comp>
+    <comp ref="C12">
+      <value>100nF</value>
+      <footprint>Capacitors_SMD:C_0603</footprint>
+      <libsource lib="flt06" part="C"/>
+      <sheetpath names="/analog/" tstamps="/5933E4B0/"/>
+      <tstamp>59361FD8</tstamp>
+    </comp>
+    <comp ref="C13">
+      <value>100nF</value>
+      <footprint>Capacitors_SMD:C_0603</footprint>
+      <libsource lib="flt06" part="C"/>
+      <sheetpath names="/analog/" tstamps="/5933E4B0/"/>
+      <tstamp>59361FDE</tstamp>
+    </comp>
+    <comp ref="C14">
+      <value>100nF</value>
+      <footprint>Capacitors_SMD:C_0603</footprint>
+      <libsource lib="flt06" part="C"/>
+      <sheetpath names="/analog/" tstamps="/5933E4B0/"/>
+      <tstamp>59361FE4</tstamp>
+    </comp>
+    <comp ref="C20">
+      <value>100nF</value>
+      <footprint>Capacitors_SMD:C_0603</footprint>
+      <libsource lib="flt06" part="C"/>
+      <sheetpath names="/analog/" tstamps="/5933E4B0/"/>
+      <tstamp>5936384C</tstamp>
+    </comp>
+    <comp ref="C21">
+      <value>100nF</value>
+      <footprint>Capacitors_SMD:C_0603</footprint>
+      <libsource lib="flt06" part="C"/>
+      <sheetpath names="/analog/" tstamps="/5933E4B0/"/>
+      <tstamp>59363852</tstamp>
+    </comp>
+    <comp ref="C22">
+      <value>100nF</value>
+      <footprint>Capacitors_SMD:C_0603</footprint>
+      <libsource lib="flt06" part="C"/>
+      <sheetpath names="/analog/" tstamps="/5933E4B0/"/>
+      <tstamp>59363858</tstamp>
+    </comp>
+    <comp ref="C23">
+      <value>100nF</value>
+      <footprint>Capacitors_SMD:C_0603</footprint>
+      <libsource lib="flt06" part="C"/>
+      <sheetpath names="/analog/" tstamps="/5933E4B0/"/>
+      <tstamp>5936385E</tstamp>
+    </comp>
+    <comp ref="C24">
+      <value>100nF</value>
+      <footprint>Capacitors_SMD:C_0603</footprint>
+      <libsource lib="flt06" part="C"/>
+      <sheetpath names="/analog/" tstamps="/5933E4B0/"/>
+      <tstamp>59363864</tstamp>
+    </comp>
+    <comp ref="C27">
+      <value>100nF</value>
+      <footprint>Capacitors_SMD:C_0603</footprint>
+      <libsource lib="flt06" part="C"/>
+      <sheetpath names="/analog/" tstamps="/5933E4B0/"/>
+      <tstamp>5936386A</tstamp>
+    </comp>
+    <comp ref="C28">
+      <value>100nF</value>
+      <footprint>Capacitors_SMD:C_0603</footprint>
+      <libsource lib="flt06" part="C"/>
+      <sheetpath names="/analog/" tstamps="/5933E4B0/"/>
+      <tstamp>59363870</tstamp>
+    </comp>
+    <comp ref="C29">
+      <value>100nF</value>
+      <footprint>Capacitors_SMD:C_0603</footprint>
+      <libsource lib="flt06" part="C"/>
+      <sheetpath names="/analog/" tstamps="/5933E4B0/"/>
+      <tstamp>59363876</tstamp>
+    </comp>
+    <comp ref="C30">
+      <value>100nF</value>
+      <footprint>Capacitors_SMD:C_0603</footprint>
+      <libsource lib="flt06" part="C"/>
+      <sheetpath names="/analog/" tstamps="/5933E4B0/"/>
+      <tstamp>5936387C</tstamp>
+    </comp>
+    <comp ref="C31">
+      <value>100nF</value>
+      <footprint>Capacitors_SMD:C_0603</footprint>
+      <libsource lib="flt06" part="C"/>
+      <sheetpath names="/analog/" tstamps="/5933E4B0/"/>
+      <tstamp>59363882</tstamp>
+    </comp>
+    <comp ref="C25">
+      <value>100nF</value>
+      <footprint>Capacitors_SMD:C_0603</footprint>
+      <libsource lib="flt06" part="C"/>
+      <sheetpath names="/analog/" tstamps="/5933E4B0/"/>
+      <tstamp>59363B00</tstamp>
+    </comp>
+    <comp ref="C32">
+      <value>100nF</value>
+      <footprint>Capacitors_SMD:C_0603</footprint>
+      <libsource lib="flt06" part="C"/>
+      <sheetpath names="/analog/" tstamps="/5933E4B0/"/>
+      <tstamp>59363BBA</tstamp>
+    </comp>
+    <comp ref="C26">
+      <value>100nF</value>
+      <footprint>Capacitors_SMD:C_0603</footprint>
+      <libsource lib="flt06" part="C"/>
+      <sheetpath names="/analog/" tstamps="/5933E4B0/"/>
+      <tstamp>59363C77</tstamp>
+    </comp>
+    <comp ref="C19">
+      <value>100nF</value>
+      <footprint>Capacitors_SMD:C_0603</footprint>
+      <libsource lib="flt06" part="C"/>
+      <sheetpath names="/analog/" tstamps="/5933E4B0/"/>
+      <tstamp>59363D37</tstamp>
+    </comp>
+    <comp ref="R16">
+      <value>0</value>
+      <footprint>Resistors_SMD:R_1206</footprint>
+      <libsource lib="flt06" part="R"/>
+      <sheetpath names="/analog/" tstamps="/5933E4B0/"/>
+      <tstamp>59A94084</tstamp>
+    </comp>
+    <comp ref="R17">
+      <value>0</value>
+      <footprint>Resistors_SMD:R_1206</footprint>
+      <libsource lib="flt06" part="R"/>
+      <sheetpath names="/analog/" tstamps="/5933E4B0/"/>
+      <tstamp>59A94226</tstamp>
+    </comp>
+    <comp ref="R18">
+      <value>0</value>
+      <footprint>Resistors_SMD:R_1206</footprint>
+      <libsource lib="flt06" part="R"/>
+      <sheetpath names="/analog/" tstamps="/5933E4B0/"/>
+      <tstamp>59A94319</tstamp>
+    </comp>
+    <comp ref="R19">
+      <value>0</value>
+      <footprint>Resistors_SMD:R_1206</footprint>
+      <libsource lib="flt06" part="R"/>
+      <sheetpath names="/analog/" tstamps="/5933E4B0/"/>
+      <tstamp>59A94433</tstamp>
+    </comp>
+    <comp ref="J7">
+      <value>TEST_1P</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x01_Pitch2.54mm</footprint>
+      <libsource lib="flt06" part="TEST_1P"/>
+      <sheetpath names="/analog/" tstamps="/5933E4B0/"/>
+      <tstamp>59ADAD62</tstamp>
+    </comp>
+    <comp ref="J8">
+      <value>TEST_1P</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x01_Pitch2.54mm</footprint>
+      <libsource lib="flt06" part="TEST_1P"/>
+      <sheetpath names="/analog/" tstamps="/5933E4B0/"/>
+      <tstamp>59ADBE5D</tstamp>
+    </comp>
+    <comp ref="J9">
+      <value>TEST_1P</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x01_Pitch2.54mm</footprint>
+      <libsource lib="flt06" part="TEST_1P"/>
+      <sheetpath names="/analog/" tstamps="/5933E4B0/"/>
+      <tstamp>59ADCAF3</tstamp>
+    </comp>
+    <comp ref="J10">
+      <value>TEST_1P</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x01_Pitch2.54mm</footprint>
+      <libsource lib="flt06" part="TEST_1P"/>
+      <sheetpath names="/analog/" tstamps="/5933E4B0/"/>
+      <tstamp>59ADCBDD</tstamp>
+    </comp>
+    <comp ref="J12">
+      <value>TEST_1P</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x01_Pitch2.54mm</footprint>
+      <libsource lib="flt06" part="TEST_1P"/>
+      <sheetpath names="/analog/" tstamps="/5933E4B0/"/>
+      <tstamp>59ADCD37</tstamp>
+    </comp>
+    <comp ref="J11">
+      <value>TEST_1P</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x01_Pitch2.54mm</footprint>
+      <libsource lib="flt06" part="TEST_1P"/>
+      <sheetpath names="/analog/" tstamps="/5933E4B0/"/>
+      <tstamp>59ADD66C</tstamp>
+    </comp>
+    <comp ref="J17">
+      <value>TEST_1P</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x01_Pitch2.54mm</footprint>
+      <libsource lib="flt06" part="TEST_1P"/>
+      <sheetpath names="/analog/" tstamps="/5933E4B0/"/>
+      <tstamp>59ADDA40</tstamp>
+    </comp>
+    <comp ref="J16">
+      <value>TEST_1P</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x01_Pitch2.54mm</footprint>
+      <libsource lib="flt06" part="TEST_1P"/>
+      <sheetpath names="/analog/" tstamps="/5933E4B0/"/>
+      <tstamp>59ADDC98</tstamp>
+    </comp>
+    <comp ref="J15">
+      <value>TEST_1P</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x01_Pitch2.54mm</footprint>
+      <libsource lib="flt06" part="TEST_1P"/>
+      <sheetpath names="/analog/" tstamps="/5933E4B0/"/>
+      <tstamp>59ADDDFB</tstamp>
+    </comp>
+    <comp ref="J14">
+      <value>TEST_1P</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x01_Pitch2.54mm</footprint>
+      <libsource lib="flt06" part="TEST_1P"/>
+      <sheetpath names="/analog/" tstamps="/5933E4B0/"/>
+      <tstamp>59ADE1D7</tstamp>
+    </comp>
+    <comp ref="J13">
+      <value>TEST_1P</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x01_Pitch2.54mm</footprint>
+      <libsource lib="flt06" part="TEST_1P"/>
+      <sheetpath names="/analog/" tstamps="/5933E4B0/"/>
+      <tstamp>59ADE346</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="flt06" part="C">
+      <description>Unpolarized capacitor</description>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="flt06" part="D_ALT">
+      <description>Diode, alternativ symbol</description>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*SingleDiode</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_ALT</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="flt06" part="D_TVS_ALT">
+      <description>Bidirectional transient-voltage-suppression (TVS) diode, alternative symbol</description>
+      <docs>https://en.wikipedia.org/wiki/Transient-voltage-suppression_diode</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*SingleDiode</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_TVS_ALT</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A1" type="passive"/>
+        <pin num="2" name="A2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="flt06" part="Ferrite_Bead">
+      <description>Ferrite bead</description>
+      <footprints>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+        <fp>*Ferrite*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">Ferrite_Bead</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="flt06" part="INA106">
+      <aliases>
+        <alias>INA143</alias>
+      </aliases>
+      <description>Precision Gain = 10 differential amplifier</description>
+      <docs>http://www.ti.com/lit/ds/symlink/ina106.pdf</docs>
+      <footprints>
+        <fp>DIP</fp>
+        <fp>SO-8</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">INA106</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="input"/>
+        <pin num="2" name="~" type="input"/>
+        <pin num="3" name="~" type="input"/>
+        <pin num="4" name="~" type="power_in"/>
+        <pin num="5" name="~" type="input"/>
+        <pin num="6" name="~" type="output"/>
+        <pin num="7" name="~" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="flt06" part="INA106_R">
+      <description>Precision Gain = 0.1 differential amplifier</description>
+      <docs>http://www.ti.com/lit/ds/symlink/ina106.pdf</docs>
+      <footprints>
+        <fp>DIP</fp>
+        <fp>SO-8</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">INA106_R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="input"/>
+        <pin num="2" name="~" type="input"/>
+        <pin num="3" name="~" type="input"/>
+        <pin num="4" name="~" type="power_in"/>
+        <pin num="5" name="~" type="input"/>
+        <pin num="6" name="~" type="output"/>
+        <pin num="7" name="~" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="flt06" part="LT1010">
+      <description>Fast 150mA power buffer</description>
+      <docs>https://cds.linear.com/docs/en/datasheet/1010fe.pdf</docs>
+      <footprints>
+        <fp>TO-220*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LT1010</field>
+        <field name="Footprint">TO_SOT_Packages_SMD:SOT-23-5</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="input"/>
+        <pin num="2" name="V+" type="power_in"/>
+        <pin num="3" name="V-" type="power_in"/>
+        <pin num="4" name="bias" type="input"/>
+        <pin num="5" name="~" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="flt06" part="OPA192">
+      <description>Single Precision RRIO Operational Amplifier</description>
+      <docs>http://www.ti.com/lit/ds/symlink/opa192.pdf</docs>
+      <footprints>
+        <fp>SOT-23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">OPA192</field>
+        <field name="Footprint">TO_SOT_Packages_SMD:SOT-23-5</field>
+      </fields>
+      <pins>
+        <pin num="1" name="+" type="input"/>
+        <pin num="2" name="V-" type="power_in"/>
+        <pin num="3" name="-" type="input"/>
+        <pin num="4" name="~" type="output"/>
+        <pin num="5" name="V+" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="flt06" part="OPA2192">
+      <description>Dual Precision RRIO Operational Amplifier</description>
+      <docs>http://www.ti.com/lit/ds/symlink/opa192.pdf</docs>
+      <footprints>
+        <fp>SOIC*3.9x4.9mm*Pitch1.27mm</fp>
+        <fp>VSSOP*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">OPA2192</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="output"/>
+        <pin num="2" name="-" type="input"/>
+        <pin num="3" name="+" type="input"/>
+        <pin num="4" name="V-" type="power_in"/>
+        <pin num="5" name="+" type="input"/>
+        <pin num="6" name="-" type="input"/>
+        <pin num="7" name="~" type="output"/>
+        <pin num="8" name="V+" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="flt06" part="R">
+      <description>Resistor</description>
+      <footprints>
+        <fp>R_*</fp>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="flt06" part="Screw_Terminal_1x02">
+      <description>2-pin screw terminal connector</description>
+      <footprints>
+        <fp>bornier2</fp>
+        <fp>TerminalBlock*2pol</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Screw_Terminal_1x02</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="flt06-cache" part="Screw_Terminal_1x03">
+      <footprints>
+        <fp>bornier3</fp>
+        <fp>TerminalBlock*3pol</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Screw_Terminal_1x03</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+        <pin num="3" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="flt06" part="TEST_1P">
+      <description>point</description>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">TEST_1P</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="flt06">
+      <uri>/pool/dev/flt06/flt06.lib</uri>
+    </library>
+    <library logical="flt06-cache">
+      <uri>/pool/dev/flt06/flt06-cache.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="-12V">
+      <node ref="U5" pin="4"/>
+      <node ref="U10" pin="3"/>
+      <node ref="U9" pin="3"/>
+      <node ref="U2" pin="4"/>
+      <node ref="U8" pin="3"/>
+      <node ref="C14" pin="2"/>
+      <node ref="C13" pin="2"/>
+      <node ref="C12" pin="2"/>
+      <node ref="C11" pin="2"/>
+      <node ref="C10" pin="2"/>
+      <node ref="D5" pin="2"/>
+      <node ref="C30" pin="2"/>
+      <node ref="C31" pin="2"/>
+      <node ref="C32" pin="2"/>
+      <node ref="C26" pin="2"/>
+      <node ref="C27" pin="2"/>
+      <node ref="C28" pin="2"/>
+      <node ref="C29" pin="2"/>
+      <node ref="U1" pin="4"/>
+      <node ref="C2" pin="2"/>
+      <node ref="U7" pin="3"/>
+      <node ref="D7" pin="2"/>
+      <node ref="U6" pin="4"/>
+      <node ref="D3" pin="1"/>
+      <node ref="U4" pin="2"/>
+      <node ref="U3" pin="3"/>
+      <node ref="D2" pin="2"/>
+    </net>
+    <net code="2" name="GNDA">
+      <node ref="C27" pin="1"/>
+      <node ref="C24" pin="2"/>
+      <node ref="C23" pin="2"/>
+      <node ref="C21" pin="2"/>
+      <node ref="C22" pin="2"/>
+      <node ref="C30" pin="1"/>
+      <node ref="C28" pin="1"/>
+      <node ref="C29" pin="1"/>
+      <node ref="R4" pin="2"/>
+      <node ref="C15" pin="2"/>
+      <node ref="J2" pin="2"/>
+      <node ref="C31" pin="1"/>
+      <node ref="C2" pin="1"/>
+      <node ref="C1" pin="2"/>
+      <node ref="C20" pin="2"/>
+      <node ref="C32" pin="1"/>
+      <node ref="C26" pin="1"/>
+      <node ref="C19" pin="2"/>
+      <node ref="C25" pin="2"/>
+      <node ref="R8" pin="2"/>
+      <node ref="L2" pin="2"/>
+      <node ref="U6" pin="3"/>
+      <node ref="J6" pin="2"/>
+      <node ref="R15" pin="2"/>
+      <node ref="C18" pin="2"/>
+      <node ref="R12" pin="2"/>
+      <node ref="J3" pin="2"/>
+      <node ref="J5" pin="2"/>
+      <node ref="J4" pin="2"/>
+      <node ref="U2" pin="1"/>
+      <node ref="C13" pin="1"/>
+      <node ref="C12" pin="1"/>
+      <node ref="C11" pin="1"/>
+      <node ref="C10" pin="1"/>
+      <node ref="C9" pin="2"/>
+      <node ref="C8" pin="2"/>
+      <node ref="U6" pin="1"/>
+      <node ref="C7" pin="2"/>
+      <node ref="C14" pin="1"/>
+      <node ref="C5" pin="2"/>
+      <node ref="C6" pin="2"/>
+    </net>
+    <net code="3" name="/analog/Iout">
+      <node ref="U4" pin="1"/>
+      <node ref="J4" pin="1"/>
+      <node ref="J12" pin="1"/>
+      <node ref="R5" pin="2"/>
+    </net>
+    <net code="4" name="+12V">
+      <node ref="U1" pin="8"/>
+      <node ref="U3" pin="2"/>
+      <node ref="U2" pin="7"/>
+      <node ref="U5" pin="8"/>
+      <node ref="U4" pin="5"/>
+      <node ref="C6" pin="1"/>
+      <node ref="C5" pin="1"/>
+      <node ref="D4" pin="1"/>
+      <node ref="D1" pin="1"/>
+      <node ref="D3" pin="2"/>
+      <node ref="U6" pin="7"/>
+      <node ref="U7" pin="2"/>
+      <node ref="D6" pin="1"/>
+      <node ref="C1" pin="1"/>
+      <node ref="J2" pin="1"/>
+      <node ref="U8" pin="2"/>
+      <node ref="C25" pin="1"/>
+      <node ref="C19" pin="1"/>
+      <node ref="C20" pin="1"/>
+      <node ref="C21" pin="1"/>
+      <node ref="C23" pin="1"/>
+      <node ref="C24" pin="1"/>
+      <node ref="C22" pin="1"/>
+      <node ref="U10" pin="2"/>
+      <node ref="U9" pin="2"/>
+      <node ref="C7" pin="1"/>
+      <node ref="C9" pin="1"/>
+      <node ref="C8" pin="1"/>
+    </net>
+    <net code="5" name="/analog/Vin">
+      <node ref="C17" pin="1"/>
+      <node ref="J5" pin="1"/>
+      <node ref="J13" pin="1"/>
+      <node ref="D7" pin="1"/>
+      <node ref="D6" pin="2"/>
+    </net>
+    <net code="6" name="Net-(J1-Pad1)">
+      <node ref="L1" pin="1"/>
+      <node ref="J1" pin="1"/>
+    </net>
+    <net code="7" name="Net-(J1-Pad2)">
+      <node ref="J1" pin="2"/>
+      <node ref="L2" pin="1"/>
+    </net>
+    <net code="8" name="Net-(D2-Pad1)">
+      <node ref="L3" pin="2"/>
+      <node ref="D2" pin="1"/>
+    </net>
+    <net code="9" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2"/>
+      <node ref="L1" pin="2"/>
+    </net>
+    <net code="10" name="Net-(J1-Pad3)">
+      <node ref="L3" pin="1"/>
+      <node ref="J1" pin="3"/>
+    </net>
+    <net code="11" name="/analog/Vout">
+      <node ref="R19" pin="2"/>
+      <node ref="R17" pin="2"/>
+      <node ref="R18" pin="2"/>
+      <node ref="R16" pin="2"/>
+      <node ref="U6" pin="5"/>
+      <node ref="J17" pin="1"/>
+      <node ref="J6" pin="1"/>
+    </net>
+    <net code="12" name="/analog/Iin">
+      <node ref="D5" pin="1"/>
+      <node ref="J3" pin="1"/>
+      <node ref="D4" pin="2"/>
+      <node ref="C4" pin="1"/>
+      <node ref="J7" pin="1"/>
+    </net>
+    <net code="13" name="Net-(J9-Pad1)">
+      <node ref="U1" pin="1"/>
+      <node ref="U1" pin="2"/>
+      <node ref="R2" pin="1"/>
+      <node ref="R1" pin="1"/>
+      <node ref="J9" pin="1"/>
+    </net>
+    <net code="14" name="Net-(R19-Pad1)">
+      <node ref="U10" pin="5"/>
+      <node ref="R19" pin="1"/>
+    </net>
+    <net code="15" name="Net-(R18-Pad1)">
+      <node ref="U9" pin="5"/>
+      <node ref="R18" pin="1"/>
+    </net>
+    <net code="16" name="Net-(R17-Pad1)">
+      <node ref="R17" pin="1"/>
+      <node ref="U8" pin="5"/>
+    </net>
+    <net code="17" name="Net-(U2-Pad6)">
+      <node ref="U2" pin="6"/>
+      <node ref="U3" pin="1"/>
+    </net>
+    <net code="18" name="Net-(C15-Pad1)">
+      <node ref="R3" pin="2"/>
+      <node ref="U1" pin="5"/>
+      <node ref="C15" pin="1"/>
+    </net>
+    <net code="19" name="Net-(C3-Pad1)">
+      <node ref="R6" pin="1"/>
+      <node ref="J10" pin="1"/>
+      <node ref="C3" pin="1"/>
+      <node ref="U1" pin="7"/>
+      <node ref="R1" pin="2"/>
+      <node ref="U2" pin="5"/>
+    </net>
+    <net code="20" name="Net-(C3-Pad2)">
+      <node ref="R3" pin="1"/>
+      <node ref="R2" pin="2"/>
+      <node ref="C3" pin="2"/>
+    </net>
+    <net code="21" name="Net-(C4-Pad2)">
+      <node ref="J8" pin="1"/>
+      <node ref="R4" pin="1"/>
+      <node ref="C4" pin="2"/>
+      <node ref="U1" pin="3"/>
+    </net>
+    <net code="22" name="Net-(R13-Pad2)">
+      <node ref="R13" pin="2"/>
+      <node ref="R15" pin="1"/>
+      <node ref="U5" pin="6"/>
+    </net>
+    <net code="23" name="Net-(R16-Pad1)">
+      <node ref="R16" pin="1"/>
+      <node ref="U7" pin="5"/>
+    </net>
+    <net code="24" name="Net-(R6-Pad2)">
+      <node ref="U1" pin="6"/>
+      <node ref="R8" pin="1"/>
+      <node ref="R6" pin="2"/>
+    </net>
+    <net code="25" name="Net-(J11-Pad1)">
+      <node ref="U2" pin="2"/>
+      <node ref="R5" pin="1"/>
+      <node ref="J11" pin="1"/>
+      <node ref="U3" pin="5"/>
+    </net>
+    <net code="26" name="Net-(C18-Pad1)">
+      <node ref="R11" pin="2"/>
+      <node ref="C18" pin="1"/>
+      <node ref="U5" pin="5"/>
+    </net>
+    <net code="27" name="Net-(C16-Pad2)">
+      <node ref="R10" pin="2"/>
+      <node ref="C16" pin="2"/>
+      <node ref="R11" pin="1"/>
+    </net>
+    <net code="28" name="Net-(C17-Pad2)">
+      <node ref="U5" pin="3"/>
+      <node ref="R12" pin="1"/>
+      <node ref="C17" pin="2"/>
+      <node ref="J14" pin="1"/>
+    </net>
+    <net code="29" name="Net-(J15-Pad1)">
+      <node ref="U5" pin="2"/>
+      <node ref="R9" pin="1"/>
+      <node ref="J15" pin="1"/>
+      <node ref="R10" pin="1"/>
+      <node ref="U5" pin="1"/>
+    </net>
+    <net code="30" name="Net-(U10-Pad1)">
+      <node ref="U7" pin="1"/>
+      <node ref="U6" pin="6"/>
+      <node ref="U8" pin="1"/>
+      <node ref="U10" pin="1"/>
+      <node ref="U9" pin="1"/>
+    </net>
+    <net code="31" name="Net-(U2-Pad3)">
+      <node ref="U4" pin="3"/>
+      <node ref="U2" pin="3"/>
+      <node ref="U4" pin="4"/>
+    </net>
+    <net code="32" name="Net-(C16-Pad1)">
+      <node ref="U6" pin="2"/>
+      <node ref="U5" pin="7"/>
+      <node ref="R13" pin="1"/>
+      <node ref="J16" pin="1"/>
+      <node ref="R9" pin="2"/>
+      <node ref="C16" pin="1"/>
+    </net>
+    <net code="33" name="Net-(U3-Pad4)">
+      <node ref="U3" pin="4"/>
+    </net>
+    <net code="34" name="Net-(U10-Pad4)">
+      <node ref="U10" pin="4"/>
+    </net>
+    <net code="35" name="Net-(U9-Pad4)">
+      <node ref="U9" pin="4"/>
+    </net>
+    <net code="36" name="Net-(U8-Pad4)">
+      <node ref="U8" pin="4"/>
+    </net>
+    <net code="37" name="Net-(U7-Pad4)">
+      <node ref="U7" pin="4"/>
+    </net>
+  </nets>
+</export>
